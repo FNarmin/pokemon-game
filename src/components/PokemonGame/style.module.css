@@ -1,0 +1,28 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.winText {
+    color: green;
+}
+.loseText {
+    color: red;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.button {
+    background-color: rgb(156, 123, 187);
+    color: white;
+   font-size: 1.6em;
+   padding: 10px 40px;
+   border: none;
+   border-radius: 20px;
+   margin-top: 20px;
+
+}
